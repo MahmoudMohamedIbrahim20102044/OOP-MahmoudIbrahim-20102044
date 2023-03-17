@@ -1,0 +1,7 @@
+Q8)
+to Secure and protect the data.
+
+Q9)
+calling a class member with class name is used only with static members while Id isn't static 
+in the line ------> Test.id = 45 ;
+the correct answer is ---> this.id = 45;& also m2 is not a static method. 
