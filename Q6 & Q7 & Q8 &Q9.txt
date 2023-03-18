@@ -1,0 +1,9 @@
+Q6)	a) A's no arg constructor is invoked.
+	b)there is no parameter in B constructor.
+q7)	line 5->this.radius=radius;
+	line 21->super(radius);
+	line 22->this.length=length;
+	line 27->return super(getArea())*length;
+Q8)overridden
+Q9)yes
+Q10)	
